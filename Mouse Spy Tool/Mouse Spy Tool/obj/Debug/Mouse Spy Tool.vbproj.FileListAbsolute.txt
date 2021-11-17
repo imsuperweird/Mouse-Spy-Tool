@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\bin\Debug\Mouse Spy Tool.exe.config
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\bin\Debug\Mouse Spy Tool.exe
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\bin\Debug\Mouse Spy Tool.pdb
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\bin\Debug\Mouse Spy Tool.xml
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse_Spy_Tool.MainWindow.resources
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse_Spy_Tool.Resources.resources
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.exe
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.xml
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.pdb
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse_Spy_Tool.Zoom.resources
+C:\Users\User\Desktop\New folder\tut\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse_Spy_Tool.ShortcutInfo.resources
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse_Spy_Tool.ShortcutInfo.resources
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse_Spy_Tool.MainWindow.resources
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse_Spy_Tool.Zoom.resources
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.exe
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.xml
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.pdb
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse_Spy_Tool.Resources.resources
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\obj\Debug\Mouse Spy Tool.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\bin\Debug\Mouse Spy Tool.exe.config
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\bin\Debug\Mouse Spy Tool.exe
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\bin\Debug\Mouse Spy Tool.pdb
+C:\Users\User\Desktop\Mouse Spy Tool\Mouse Spy Tool\bin\Debug\Mouse Spy Tool.xml
